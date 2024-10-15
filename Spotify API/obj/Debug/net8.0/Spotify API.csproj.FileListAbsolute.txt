@@ -1,0 +1,44 @@
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\Spotify API\bin\Debug\net8.0\Spotify API.exe
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\Spotify API\bin\Debug\net8.0\Spotify API.deps.json
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\Spotify API\bin\Debug\net8.0\Spotify API.runtimeconfig.json
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\Spotify API\bin\Debug\net8.0\Spotify API.dll
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\Spotify API\bin\Debug\net8.0\Spotify API.pdb
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\Spotify API\bin\Debug\net8.0\EmbedIO.dll
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\Spotify API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\Spotify API\bin\Debug\net8.0\RestSharp.dll
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\Spotify API\bin\Debug\net8.0\SpotifyAPI.Web.dll
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\Spotify API\bin\Debug\net8.0\SpotifyAPI.Web.Auth.dll
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\Spotify API\bin\Debug\net8.0\Swan.Lite.dll
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\Spotify API\obj\Debug\net8.0\Spotify API.csproj.AssemblyReference.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\Spotify API\obj\Debug\net8.0\Spotify API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\Spotify API\obj\Debug\net8.0\Spotify API.AssemblyInfoInputs.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\Spotify API\obj\Debug\net8.0\Spotify API.AssemblyInfo.cs
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\Spotify API\obj\Debug\net8.0\Spotify API.csproj.CoreCompileInputs.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\Spotify API\obj\Debug\net8.0\Spotify .1F2A71CB.Up2Date
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\Spotify API\obj\Debug\net8.0\Spotify API.dll
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\Spotify API\obj\Debug\net8.0\refint\Spotify API.dll
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\Spotify API\obj\Debug\net8.0\Spotify API.pdb
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\Spotify API\obj\Debug\net8.0\Spotify API.genruntimeconfig.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\Spotify API\obj\Debug\net8.0\ref\Spotify API.dll
+C:\Users\alpha\OneDrive\Masaüstü\Spotify API\bin\Debug\net8.0\Spotify API.exe
+C:\Users\alpha\OneDrive\Masaüstü\Spotify API\bin\Debug\net8.0\Spotify API.deps.json
+C:\Users\alpha\OneDrive\Masaüstü\Spotify API\bin\Debug\net8.0\Spotify API.runtimeconfig.json
+C:\Users\alpha\OneDrive\Masaüstü\Spotify API\bin\Debug\net8.0\Spotify API.dll
+C:\Users\alpha\OneDrive\Masaüstü\Spotify API\bin\Debug\net8.0\Spotify API.pdb
+C:\Users\alpha\OneDrive\Masaüstü\Spotify API\bin\Debug\net8.0\EmbedIO.dll
+C:\Users\alpha\OneDrive\Masaüstü\Spotify API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\alpha\OneDrive\Masaüstü\Spotify API\bin\Debug\net8.0\RestSharp.dll
+C:\Users\alpha\OneDrive\Masaüstü\Spotify API\bin\Debug\net8.0\SpotifyAPI.Web.dll
+C:\Users\alpha\OneDrive\Masaüstü\Spotify API\bin\Debug\net8.0\SpotifyAPI.Web.Auth.dll
+C:\Users\alpha\OneDrive\Masaüstü\Spotify API\bin\Debug\net8.0\Swan.Lite.dll
+C:\Users\alpha\OneDrive\Masaüstü\Spotify API\obj\Debug\net8.0\Spotify API.csproj.AssemblyReference.cache
+C:\Users\alpha\OneDrive\Masaüstü\Spotify API\obj\Debug\net8.0\Spotify API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpha\OneDrive\Masaüstü\Spotify API\obj\Debug\net8.0\Spotify API.AssemblyInfoInputs.cache
+C:\Users\alpha\OneDrive\Masaüstü\Spotify API\obj\Debug\net8.0\Spotify API.AssemblyInfo.cs
+C:\Users\alpha\OneDrive\Masaüstü\Spotify API\obj\Debug\net8.0\Spotify API.csproj.CoreCompileInputs.cache
+C:\Users\alpha\OneDrive\Masaüstü\Spotify API\obj\Debug\net8.0\Spotify .1F2A71CB.Up2Date
+C:\Users\alpha\OneDrive\Masaüstü\Spotify API\obj\Debug\net8.0\Spotify API.dll
+C:\Users\alpha\OneDrive\Masaüstü\Spotify API\obj\Debug\net8.0\refint\Spotify API.dll
+C:\Users\alpha\OneDrive\Masaüstü\Spotify API\obj\Debug\net8.0\Spotify API.pdb
+C:\Users\alpha\OneDrive\Masaüstü\Spotify API\obj\Debug\net8.0\Spotify API.genruntimeconfig.cache
+C:\Users\alpha\OneDrive\Masaüstü\Spotify API\obj\Debug\net8.0\ref\Spotify API.dll
